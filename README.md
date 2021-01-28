@@ -10,3 +10,7 @@ Project is created with:
 * CSS
 * Bootstrap
 * Django
+
+
+### To install all requirements at once, run:
+pip install -r requirements.txt
